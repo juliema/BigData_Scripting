@@ -1,5 +1,5 @@
 //Rather barebones Taxon class -- has a few variables, and is used for Ladderize and Linearize
-public class Taxon implements Comparable {
+public class Taxon implements Comparable<Object> {
 	private String name;
 	private String sequence;
 	private int sequencestart;
