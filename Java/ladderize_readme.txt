@@ -1,4 +1,5 @@
 Authored by: Andrew Debevec, debevec2@illinois.edu
+Compatible with Java 1.5+
 
 What does Ladderize do?
 ---------------------------
